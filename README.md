@@ -68,7 +68,6 @@ When the market value of the property is lower than the Predicted Sale Price, it
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by IIIT Bangalore and Liverpool John Moores University
 
 
